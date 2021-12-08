@@ -7,6 +7,8 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
+    "sass": "^1.43.2",
+    "svelte-preprocess": "^4.9.8",
     "@sveltejs/kit": "next",
     "svelte": "^3.34.0"
   },
